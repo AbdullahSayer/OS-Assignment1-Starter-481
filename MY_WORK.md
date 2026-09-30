@@ -129,17 +129,22 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
+### Entry 1 - [30 September , 2026 ,10:30 Pm]
 **What I did**:
+Set up the starter project and prepared my development environment.
 
 **Details**:
+First of all i have account in Github and i just change my personal email to unversity email
+then I forked the instructor's starter repository to my GitHub account and renamed my repository to OS-Assignment1-Abdullah-Sayer.after that I confirmed that the repository is public cloned it to my computer and opened it in Visual Studio Code. I installed the Java Extension Pack and opened SchedulerSimulation.java I also checked the Git remote connection using git remote -v and updated the origin URL so that my local project points to my renamed GitHub repository.
 
 **Challenges**:
+At first, I was not sure about the difference between forking the repository, cloning it, and editing the files directly on GitHub. I also noticed that the local project still had the old starter repository name, so I wanted to make sure that it was connected to my own GitHub repository before making any changes.
 
 **Solution**:
+I learned that a fork creates my own copy of the instructor's repository, while cloning downloads my repository to my computer. I verified the connection using git remote -v and changed the origin URL to my renamed repository. I also installed the required Java tools in Visual Studio Code so that the project is ready for development.
 
 **Time spent**:
-
+i think an hour or an hour and a half iam not sure
 ---
 
 ### Entry 2 - [Date and Time]
